@@ -89,26 +89,20 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "En los primeros dos días después de que comencé a tomar las cápsulas, tuve acidez, pero luego desapareció. Quizás este sea un efecto secundario. No se observaron tales problemas después de dos días. El apetito se debilitó, los primeros dos kilogramos de peso también desaparecieron."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Obtuve el efecto más tarde que el de ella. Quizás el caso es que ella va al gimnasio en paralelo. En general, no está mal"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Me atrajo el precio de esta droga, ya que muchos análogos son mucho más caros. Por lo tanto, un gran respeto a la tienda por una política de precios honesta. Las pastillas en sí son válidas, perdieron dos kilos en una semana."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Kalista Tankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
-      rating : "four" # rating star, one to five
+    
