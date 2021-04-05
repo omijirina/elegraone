@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://elegraone.vercel.app/"
 languageCode = "en"
-title = "Ninyy"
+title = "Elegraone"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+5712131152"
+email = "fajo@gmail.com"
+location = "Av Calle 116 #53A-42, Suba, Bogotá, Columbia"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://elegraone.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
